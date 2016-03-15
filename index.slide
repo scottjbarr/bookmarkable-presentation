@@ -1,0 +1,36 @@
+Bookmarkable
+
+15 Mar 2016
+Tags: go golang bookmarkable gist
+
+Scott Barr
+Software Guy
+
+
+* Who am I?
+
+- Loves building systems
+- Performance matters
+- Golang, Ruby, Python, PHP, Javascript
+- Software Developer at Genie Solutions
+- Twitter [[https://twitter.com/scottjbarr][@scottjbarr]]
+
+* Bookmarkable
+
+A small project to scratch a personal itch.
+
+- Manage bookmarks from command line
+- Shared between multiple machines
+
+* Demo
+
+Demo time :)
+
+.image ./images/screenshot.png
+- Open source
+
+* Thanks
+
+* Reference
+
+- http://github.com/scottjbarr/bookmarkable
