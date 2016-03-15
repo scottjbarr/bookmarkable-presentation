@@ -11,7 +11,7 @@ Software Guy
 
 - Loves building systems
 - Performance matters
-- Golang, Ruby, Python, PHP, Javascript
+- Golang, Ruby, Python, Javascript
 - Software Developer at Genie Solutions
 - Twitter [[https://twitter.com/scottjbarr][@scottjbarr]]
 
@@ -22,14 +22,13 @@ A small project to scratch a personal itch.
 - Manage bookmarks from command line
 - Shared between multiple machines
 
-* Demo
-
-Demo time :)
+* Demo Time
 
 .image ./images/screenshot.png
 
 * Thanks
 
-* Reference
+* References
 
 - http://github.com/scottjbarr/bookmarkable
+- http://github.com/scottjbarr/bookmarkable-presentation
